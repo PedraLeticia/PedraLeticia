@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @PedraLeticia ou apenas Leticia
+- 👋 Hi, I’m Leticia
+
+- 🏡 Brasileira
 - 👀 I’m interested in ...*javascript*/*HTML5*/*CSS3* 
 - 🌱 I’m currently learning ...javascript
 - 📫 How to reach me ...[EMAIL](mdpayne33@gmail.com) [LINKEDIN](https://www.linkedin.com/in/maria-leticia-santos-pequeno-5b653b1ab/)
