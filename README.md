@@ -4,6 +4,6 @@
 
 [Curso](https://www.cursoemvideo.com/curso/html5-css3-modulo1-vip/aulas/modulo-1/)
 
-[Repositório](https://github.com/gustavoguanabara/html-css)
+[Repositório do curso](https://github.com/gustavoguanabara/html-css)
 
 
